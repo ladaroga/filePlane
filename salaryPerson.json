@@ -1,16 +1,44 @@
 {
   "person":[
     {
-     "document": "123",
+     "document": "1052409294",
      "salary": "900000"
     },
     {
-     "document": "1234",
+     "document": "1052398548",
      "salary": "91231233"
     },
     {
-     "document": "1234",
+     "document": "1052838436",
      "salary": "5473585"
+    },
+    {
+     "document": "100736709",
+     "salary": "6754899"
+    },
+    {
+     "document": "52030126",
+     "salary": "9123000"
+    },
+    {
+     "document": "17488747",
+     "salary": "3240050"
+    },
+    {
+     "document": "1057592526",
+     "salary": "568900"
+    },
+    {
+     "document": "9532818",
+     "salary": "2130000"
+    },
+    {
+     "document": "4567003",
+     "salary": "4356700"
+    },
+    {
+     "document": "71990324",
+     "salary": "98790000"
     }
     ]
 }
