@@ -1,0 +1,16 @@
+{
+  "person":[
+    {
+     "document": "123",
+     "salary": "900000"
+    },
+    {
+     "document": "1234",
+     "salary": "91231233"
+    },
+    {
+     "document": "1234",
+     "salary": "5473585"
+    }
+    ]
+}
